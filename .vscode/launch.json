@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Bol2",
+            "request": "launch",
+            "mainClass": "bol2.Bol2"
+        }
+    ]
+}
