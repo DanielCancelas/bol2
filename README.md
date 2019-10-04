@@ -1,5 +1,5 @@
 # Boletín 2
-1.0.0-beta
+# 1.0.0-beta
 
 
 1- Realiza o ordinograma  correspondente a un programa que saque por pantalla a porcentaxe descontada nunha compra. Introducindo,           por teclado, o prezo da tarifa e o prezo pagado. 
