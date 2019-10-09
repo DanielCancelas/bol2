@@ -2,7 +2,7 @@
 1.0.0-beta
 ***
 ### Exercicios
-1. Realiza o ordinograma correspondente a un programa que saque por pantalla a porcentaxe descontada nunha compra. Introducindo,           por teclado, o prezo da tarifa e o prezo pagado. 
+1. Realiza o ordinograma correspondente a un programa que saque por pantalla a porcentaxe descontada nunha compra. Introducindo, por teclado, o prezo da tarifa e o prezo pagado. 
 Fai un proxecto, de nome boletin2_1, para executar o programa.
 
 1. Realiza o ordinograma e, despois codifica un programa que representa un algoritmo, que reciba como dato de entrada o valor dunha temperatura expresada en graos centígrados e calcule o seu equivalente en graos Fahrenheit e graos Kelvin.
